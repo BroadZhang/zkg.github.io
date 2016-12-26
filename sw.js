@@ -10,8 +10,8 @@ const PRECACHE = 'precache-v1';
 const RUNTIME = 'runtime';
 const HOSTNAME_WHITELIST = [
   self.location.hostname,
-  "huangxuan.me",
-  "yanshuo.io",
+  "/zkg.github.io",
+  "/zkg.github.io",
   "cdnjs.cloudflare.com"
 ]
 
